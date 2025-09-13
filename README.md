@@ -39,6 +39,7 @@ helping understand trends, optimize product strategy, and improve sales forecast
 
 ## 📸 Dashboard Preview
 
+<img width="1392" height="777" alt="Screenshot 2025-09-13 132830" src="https://github.com/user-attachments/assets/5421d33d-4629-4db7-bb5a-abc456606e26" />
 
 ---
 
